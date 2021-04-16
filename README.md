@@ -16,8 +16,12 @@ simple.
 Il s'agit ici de définir une classe Rectangle représentant une abstraction (informatique) de ce
 qu'est un rectangle : une largeur, une longueur et sa surface.
 Commencez par ouvrir un fichier ManipRectangle.java et définissez­y la classe :
+
+'''
 class Rectangle {
 }
+'''
+
 Bien ! Prévoyons tout de suite d'utiliser notre toute première classe. Pour cela il faut déclarer une
 variable de type Rectangle. Cela se fait comme pour n'importe quelle autre variable utilisée
 jusque maintenant, la classe Rectangle étant simplement un nouveau type. La méthode main est
